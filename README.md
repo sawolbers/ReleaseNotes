@@ -3,13 +3,13 @@ Mendix module to maintain and publish release notes
 
 This module can be used to inform users about the latest release.
 
-= Functionality =
-- Info page with all releases, option to define different changes (fix, improvement, new feature)
-- One-time popup for users after a new release
-
 = Dependencies =
 - Community Commons
 - CommitScopeFeedback
+
+= Functionality =
+- Info page with all releases, option to define different changes (fix, improvement, new feature)
+- One-time popup for users after a new release
 
 = Roles =
 - User
